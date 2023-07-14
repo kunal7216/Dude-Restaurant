@@ -1,3 +1,4 @@
+
 // constants
 const body = document.querySelector("body"),
     loader = document.querySelector(".loader-wrap"),

@@ -1,4 +1,4 @@
-# Dude-Restaurant
+# Rosa -Restaurant
 
 A Pen created on CodePen.io. Original URL: https://codepen.io/kunal7216/pen/xxQYYXM
 ![Screenshot 2023-07-18 121839](https://github.com/kunal7216/Dude-Restaurant/assets/112888767/f182a49e-caf6-4178-98df-7c3dbf2dfbff)
